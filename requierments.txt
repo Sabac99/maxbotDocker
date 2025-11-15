@@ -1,0 +1,7 @@
+packages:
+  "openssl"
+  "docker"
+  "bash"
+npm:
+  "sequelize"
+  "@maxhub/max-bot-api"
